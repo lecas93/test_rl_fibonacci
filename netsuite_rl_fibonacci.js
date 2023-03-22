@@ -1,6 +1,6 @@
 /**
  * @author Angel Leon <angi.lecas93@gmail.com>
- * @Name netsuite_rl_invoice.js
+ * @Name netsuite_rl_fibonacci.js
  * @description Script que genera el número fibonacci para n y retorna el valor resultante
  * @NApiVersion 2.1
  * @NScriptType Restlet
