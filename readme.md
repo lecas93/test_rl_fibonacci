@@ -6,7 +6,7 @@ Validamos que se haya recibido un valor númerico para nuestro indice a utilizar
 
 Llamo a la funcion *getFib* para calcular el número fibonacci con base al indice recibido
 
-Una vez obtenido el resultado lo agregamos al response y si todo marcho sin problemas, al final de la ejecucion del restlet se envia nuestro response
+Una vez obtenido el resultado lo agregamos al response y si todo marchó sin problemas, al final de la ejecucion del restlet se envia nuestro response
 
 Optimizaciones futuras:
 - Se podria modificar para que genere los numeros fibonacci de n indices, en otras palabras, el usuario podria mandar un arreglo de indices y de nuestro lado le generariamos los numeros de dichos indices
