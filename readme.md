@@ -4,7 +4,7 @@ Hago un audit a la request recibida para dejar registro en el log
 
 Validamos que se haya recibido un valor númerico para nuestro indice a utilizar, caso contrario, le notificamos al usuario que ha enviado un dato invalido
 
-Creo la funcion getFib para calcular el número fibonacci con base al indice recibido
+Llamo a la funcion *getFib* para calcular el número fibonacci con base al indice recibido
 
 Una vez obtenido el resultado lo agregamos al response y si todo marcho sin problemas, al final de la ejecucion del restlet se envia nuestro response
 
